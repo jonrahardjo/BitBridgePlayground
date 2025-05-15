@@ -40,11 +40,23 @@ print(data.describe())
 print("\nMissing Values:")
 print(data.isnull().sum())
 
+print("revenue")
+
 # Correlation heatmap
 plt.figure(figsize=(12, 8))
 sns.heatmap(data.corr(), annot=True, cmap="coolwarm")
 plt.title("Correlation Heatmap")
 plt.tight_layout()
+plt.show()
+
+# Beta over Time
+
+plt.plot(data["beta"]) 
+
+plt.xlabel("Time")
+plt.ylabel("Beta")
+plt.title("Beta Over Time")
+
 plt.show()
 
 # -----------------------------
