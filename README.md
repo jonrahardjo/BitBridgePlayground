@@ -14,7 +14,7 @@ Start by adding your name and a comment below.
 - **Faeze**: _Excited to build some cool stuff with you all!_
 
 ### Now you try:
-- Add your name and a comment below.
+- **Jon**: I added my name to a list.
 
 ---
 
@@ -26,7 +26,7 @@ Start by adding your name and a comment below.
 3. Teleportation
 4. Dogs
 5. Internet
-6. Glass
+6. Pop Tarts
 
 ### Now you try:
 - Remove one thing from the list above . 
