@@ -16,6 +16,7 @@ Start by adding your name and a comment below.
 ### Now you try:
 - **Sandeep**: Looking forward to collaborate with cool people.
 - **Faeze**: _Excited to build some cool stuff with you all!_
+- **Jon**: Looks like my first attempt didn't work.  
 
 ---
 
@@ -28,7 +29,7 @@ Start by adding your name and a comment below.
 4. June
 5. Internet
 6. Tao Coins
-
+7. Coffee 
 ### Now you try:
 - Remove one thing from the list above . 
 - Add one new thing to the list above.
